@@ -132,6 +132,7 @@ GitHub also has a [contributor list][github-contributors] based on commits.
 | Steve Loughran      | [Hortonworks][HORTONWORKS]                                        | [GMT][GMT]/[BST][BST] |
 | Supun Kamburugamuva |                                                                   |                       |
 | Takahiko Saito      | [Hortonworks][HORTONWORKS]                                        | [PT][PT]              |
+| Tanisha Faulkner    | [Arctic Slope Regional Corp.][ASRC]                               | [ET][ET]              |
 | Ted Malaska         | [Cloudera][CLOUDERA]                                              |                       |
 | Ted Yu              | [Hortonworks][HORTONWORKS]                                        | [PT][PT]              |
 | Tim Halloran        |                                                                   |                       |
